@@ -4,8 +4,13 @@ A Streamlit web app for stock analysis and price forecasting, built on the Polyg
 
 Built as the MS Business Analytics capstone (BAN 693) at California State University, East Bay, 2025.
 
-<!-- Add a screenshot or GIF here, e.g. ![Forecast tab](docs/forecast.png) -->
-<!-- If the app is live on Streamlit Cloud, add: **Live app:** https://your-app.streamlit.app -->
+![Forecast tab: GRU forecast and five models ranked by MAPE and RMSE](forecast-model-comparison.png)
+
+![Insights tab: price snapshot, volume trend and 50/200-day crossover signals](insights-tab.png)
+
+![Company overview: profile, key stats, 30-day price and dividends](company-overview.png)
+
+![Sector summary: market-cap rank and comparison](sector-summary.png)
 
 ## What it does
 
