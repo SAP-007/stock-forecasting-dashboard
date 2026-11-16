@@ -2,8 +2,6 @@
 
 A Streamlit web app for stock analysis and price forecasting, built on the Polygon.io market-data API. It compares five forecasting models side by side and includes a GPT-powered chatbot that explains financial terms.
 
-Built as the MS Business Analytics capstone (BAN 693) at California State University, East Bay, 2025.
-
 ![Forecast tab: GRU forecast and five models ranked by MAPE and RMSE](forecast-model-comparison.png)
 
 ![Insights tab: price snapshot, volume trend and 50/200-day crossover signals](insights-tab.png)
